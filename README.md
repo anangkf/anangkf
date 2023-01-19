@@ -1,5 +1,5 @@
 ## 🌐 Socials:
-<a href='https://linkedin.com/in/anang-khoirul-fadli-72254422b/'>
+<a href='https://linkedin.com/in/anangkf/'>
 	<img src='https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white' />
 </a>
 
@@ -18,9 +18,9 @@
 
 <div align='center'>
 <p>“Setting goals is the first step in turning the invisible into the visible.” <br /> — Tony Robbins</p>
-<a href="https://github.com/anangkf">
+<!-- <a href="https://github.com/anangkf">
   <img src="https://github-readme-stats.vercel.app/api?username=anangkf&theme=gotham&hide_border=false&include_all_commits=false&count_private=false" />
-</a>
+</a> --->
 </div >
 
 <div align='center'>
