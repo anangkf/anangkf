@@ -12,6 +12,8 @@
 	<img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white' />
 	<img src='https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white' />
 	<img src='https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql' />
+	<img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' />
+	<img src='https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white' />
 </div>
 <br />
 <br />
@@ -35,3 +37,4 @@
   <img src="https://profile-counter.glitch.me/anangkf/count.svg" />
 </a>
 </div>
+
